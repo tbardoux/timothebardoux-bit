@@ -14,6 +14,6 @@ Je recherche un **stage puis une alternance** dans l'aéronautique, le spatial, 
 
 ### Compétences
 
-**Langages :** Python · C/C++ (Arduino) · SQL
-**Outils :** Tkinter · Matplotlib · NumPy · Arduino IDE · Tinkercad · SQLite · Git / GitHub
-**Électronique :** capteurs, servomoteurs, afficheurs LCD (I2C), récepteurs infrarouges, lecture de datasheets
+- **Langages :** Python · C/C++ (Arduino) · SQL
+- **Outils :** Tkinter · Matplotlib · NumPy · Arduino IDE · Tinkercad · SQLite · Git / GitHub
+- **Électronique :** capteurs, servomoteurs, afficheurs LCD (I2C), récepteurs infrarouges, lecture de datasheets
