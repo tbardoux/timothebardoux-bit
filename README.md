@@ -2,7 +2,6 @@
 
 Étudiant ingénieur à l'**IPSA** (aéronautique et spatial), intéressé par les **drones, les systèmes embarqués et l'analyse de données**.
 
-Je recherche un **stage puis une alternance** dans l'aéronautique, le spatial, l'électronique ou les systèmes autonomes.
 
 ### Projets
 
