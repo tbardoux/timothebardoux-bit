@@ -1,7 +1,6 @@
 ## Bonjour, je suis Timothé Bardoux 
 
 Étudiant ingénieur à l'**IPSA** (aéronautique et spatial), intéressé par les **drones, les systèmes embarqués et l'analyse de données**.
-Alternance chez **DM Drone Métropole**, organisme de formation de télépilotes de drones (région lyonnaise).
 
 Je recherche un **stage puis une alternance** dans l'aéronautique, le spatial, l'électronique ou les systèmes autonomes.
 
